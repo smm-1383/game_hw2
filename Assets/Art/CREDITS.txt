@@ -1,0 +1,27 @@
+Art and audio credits. Everything used here is CC0 / public domain.
+
+Kenney Car Kit (3D cars), by Kenney, https://kenney.nl/assets/car-kit, CC0.
+Kenney Racing Kit (road props, light posts, trees, billboards), by Kenney, https://kenney.nl/assets/racing-kit, CC0.
+Kenney Impact Sounds (crash sound), by Kenney, https://kenney.nl/assets/impact-sounds, CC0.
+Kenney Interface Sounds (click sound), by Kenney, https://kenney.nl/assets/interface-sounds, CC0.
+Kenney Digital Audio (coin and fuel pickup sounds, game over sting zapThreeToneDown), by Kenney, https://kenney.nl/assets/digital-audio, CC0.
+Kenney Sci-fi Sounds (engine loop and firework explosion), by Kenney, https://kenney.nl/assets/sci-fi-sounds, CC0.
+
+Rogland Clear Night HDRI (night sky), by Greg Zaal, Poly Haven, https://polyhaven.com/a/rogland_clear_night, CC0.
+Asphalt031 PBR material (road surface), by Lennart Demes, ambientCG, https://ambientcg.com/view?id=Asphalt031, CC0 1.0.
+
+Cyber Runner Music (menu and game music), by Luis Zuno (Ansimuz), OpenGameArt, https://opengameart.org/content/cyber-runner-music, CC0.
+
+Particle textures and the coin, fuel can, road, lights and effect prefabs were created for this project.
+
+Radio tracks (Assets/Resources/Radio), all listed as CC0 on OpenGameArt, converted to ogg and loudness normalized, long ones trimmed to 3 minutes:
+Midnight Drive, by Pro Sensory, https://opengameart.org/content/midnight-drive, CC0.
+Cyber Runner Music, by Luis Zuno (Ansimuz), https://opengameart.org/content/cyber-runner-music, CC0 (the zip itself carries a looser free-use licence text).
+Cyber March, by iamoneabe, https://opengameart.org/content/cyber-march, CC0.
+Slampe - Synthwave House, by Fupi, https://opengameart.org/content/slampe-synthwave-house, CC0.
+Space City, by MintoDog, https://opengameart.org/content/space-city, CC0.
+Tech rave, by Frenchyboy, https://opengameart.org/content/tech-rave, CC0.
+Midnight Cruiser, by Zane Little Music, https://opengameart.org/content/midnight-cruiser, CC0.
+Since 2 A.M., by TAD, https://opengameart.org/content/since-2-am, CC0.
+Chill lofi inspired, by omfgdude, https://opengameart.org/content/chill-lofi-inspired, CC0.
+Pandemia, by nene, https://opengameart.org/content/pandemia, CC0.
